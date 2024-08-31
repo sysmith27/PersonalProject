@@ -1,0 +1,52 @@
+body {
+    background-color: blanchedalmond;
+    font-family: "Gill Sans", sans-serif;
+    padding: 15px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    border: thick double brown;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 8px;
+}
+
+.about {
+    display: flex;
+    padding: 15px;
+}
+
+.about p {
+    text-align: justify;
+    padding: 80px 66px;
+    line-height: 2.5;
+    font-size: 1.08em
+}
+
+#sideone {
+    display: inline-block;
+    text-align: center;
+}
+
+#sideone img {
+    height: 300;
+    border-radius: 50%;
+
+}
+
+#start {
+    text-align: center;
+    border-bottom: thick double brown;
+}
+
+.codeacademy {
+    display: flex;
+}
+
+.class1 {
+    width: 65%;
+}
